@@ -1,4 +1,4 @@
-# automca-o-Hubsoft-Ativa-o-ipv6
+# Automação Hubsoft : Ativação IPv6
 A automação do ipv6 está apenas em roteadores Archer c20 02
 
 # Projeto de automação de ipv6 pelo hubsoft
@@ -7,7 +7,7 @@ A automação do ipv6 está apenas em roteadores Archer c20 02
 Certifique-se de ter o Python instalado em sua máquina. Recomenda-se utilizar um ambiente virtual para evitar conflitos de dependências.
 
 1. clone o repositorio:
-   bash: gitclone https://github.com/LuizWhoami/automa-o-Hubsoft-Ativa-o-ipv6
+   bash: gitclone https://github.com/LuizWhoami/automacao-Hubsoft-Ativa-o-ipv6
    cd Bot
 2. Crie e ative um ambiente virtual:
     
