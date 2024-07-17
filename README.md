@@ -16,12 +16,12 @@ bash:
     source venv/bin/activate   # No Windows use `venv\Scripts\activate`
     
 3. Bibliotecas:
-  pip install.
-      selenium
-      time
-      pyautogui
-      pandas
-      pyperclip
+pip install.
+   selenium
+   time
+   pyautogui
+   pandas
+   pyperclip
 
 #Esse codigo ainda existe algumas pendencias de casos que podem interferir no processo do bot
 
