@@ -7,17 +7,17 @@ import pyperclip
 
 
 driver = webdriver.Chrome()
-driver.get("https://tuxnet.hubsoft.com.br/")
+driver.get("https://provedor.hubsoft.com.br/")
 sleep(2)
 
 pyautogui.click(507, 456)
-pyautogui.write("dvison.ferreira@redetuxnet.com")
+pyautogui.write("seu email")
 pyautogui.moveTo(517, 592)
 pyautogui.click()
 sleep(5)
 
 pyautogui.click(501,523)
-pyautogui.write("Mainha91970677#")
+pyautogui.write("sua senha")
 pyautogui.click(499, 628)
 sleep(6)
 
