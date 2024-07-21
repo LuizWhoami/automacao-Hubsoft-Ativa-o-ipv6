@@ -67,7 +67,7 @@ hubsoft1()
 #entrando
 def roteador():
     try:
-        pyautogui.write('Blackcat@2007')
+        pyautogui.write('senharoteador')
         pyautogui.hotkey('Enter')
     except:
         print('senha incorreta {}'.format(linha))
