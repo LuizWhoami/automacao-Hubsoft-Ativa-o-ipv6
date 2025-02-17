@@ -72,4 +72,3 @@ pip install.
    não tem para outros modelo de roteadores
    pode ocorrer caso tente colocar o chrome em Tela Cheia
 
-#automação em construção
