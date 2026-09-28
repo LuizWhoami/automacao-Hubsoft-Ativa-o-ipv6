@@ -18,7 +18,7 @@ bash:
     source venv/bin/activate   # Windows: `venv\Scripts\activate`
     
 3. library:
-   
+    
 pip install.
    selenium
    time
